@@ -71,5 +71,4 @@ The system uses a vision-based approach to:
 This project is licensed under the MIT License.
 
 ## 📚 Documentation and Video
-
-For detailed methodology, system architecture, diagrams, and experimental results, please refer to the full [report]() and [demo video]().
+For detailed methodology, system architecture, diagrams, and experimental results, please refer to the full [report](https://github.com/ChinmayAmrutkar/Vision-Guided-Precision-Landing-of-a-Parrot-Mambo-Minidrone-on-a-Moving-Platform/blob/main/Autonomous%20Vision-Based%20Landing%20of%20a%20Parrot%20Mambo%20Drone%20on%20a%20Moving%20Platform.pdf) and [demo video](https://github.com/ChinmayAmrutkar/Vision-Guided-Precision-Landing-of-a-Parrot-Mambo-Minidrone-on-a-Moving-Platform/blob/main/demo_video.mp4).
